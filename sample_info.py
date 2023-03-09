@@ -2,7 +2,7 @@
 API_ID = 1234
 API_HASH = "bf05f7a4b4c89c44be6"
 BOT_TOKEN = "5517520189:AAFeexxxxxxxxxxxxxxxxx"
-ADMINS = [1861030649, 1798040070]
+ADMINS = [1365052525,1061576483]
 DATABASE_NAME = "MdiskConvertor"
 DATABASE_URL = "mongodb+srv://username:pwd@cluster0.xxxx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 
